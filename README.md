@@ -1,18 +1,3 @@
-Ok, I will write the **full README content in normal text format (not markdown file)** so you can copy it into README.md or README.txt yourself.
-This will follow exactly the hackathon requirements:
-
-* Step-by-step run instructions
-* Reproduce results
-* Environment requirements
-* Dataset info
-* Model description
-* Workflow
-* Expected outputs
-* Training results
-* Evaluation results
-
----
-
 # 🌍 Offroad Semantic Segmentation using DINOv2 Backbone
 
 ## Overview
